@@ -400,3 +400,89 @@ hostname
 cron
 sudo cron
 sudo nano hostname.conf
+clear
+ls
+sudo nano ejabberd_auth.php
+nano php_log.txt
+ls
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+ls
+nano php_log.txt
+sudo nano php_log.txt
+sudo nano ejabberd_auth.php
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+sudo nano /etc/ejabberd/ejabberd.cfg
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+ls
+nano php_log.txt
+sudo chmod 777 php_log.txt
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+sudo nano /etc/ejabberd/ejabberd.cfg
+sudo nano ejabberd_auth.php
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+sudo nano /etc/ejabberd/ejabberd.cfg
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+sudo nano /etc/ejabberd/ejabberd.cfg
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+sudo nano /etc/ejabberd/ejabberd.cfg
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+mysql -a root -p 
+mysql -u root -p 
+nano /etc/mysql/my.conf
+whereis mysql
+cd /etc/mysql
+ls
+nano my.cnf
+sudo nano my.cnf
+service mysql restart
+sudo service mysql restart
+mysql -uroot -pMyPass
+mysql -uroot -p root
+mysql -u root -proot
+/sbin/iptables -A INPUT -i eth0 -p tcp --destination-port 3306 -j ACCEPT
+sudo /sbin/iptables -A INPUT -i eth0 -p tcp --destination-port 3306 -j ACCEPT
+mysql -u root -proot
+sudo nano my.cnf
+sudo service mysql restart
+ls
+cd /home/hitesh
+ls
+nano ejabberd.mysql
+mysqldump ejabberd -uroot -p >> ejabberd.mysql
+mysql -uroot -proot
+sudo nano /etc/ejabberd/ejabberd.cfg
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+mysqldump -uroot -proot ejabberd > /home/hitesh/dumpfilename.sql
+ls
+sudo nano dumpfilename.sql
+sudo apt-get install git-core
+git remote add origin ssh://git@bitbucket.org/hiteshjoshi/dumps.git
+git clone ssh://git@bitbucket.org/hiteshjoshi/dumps.git
+whereis id_rsa
+ssh-keygen -t rsa
+sudo nano /home/hitesh/.ssh/id_rsa.pub
+sudo apt-get install xclip
+xclip /home/hitesh/.ssh/id_rsa.pub
+sudo xclip /home/hitesh/.ssh/id_rsa.pub
+sudo apt-get remove xclip
+cbf ~/.ssh/id_rsa.pub
+tail -n 100 /var/log/apache2/error.log | cb
+cat ~/.ssh/id_rsa.pub | pbcopy
+vim /home/hitesh/.ssh/id_rsa.pub
+git clone ssh://git@bitbucket.org/hiteshjoshi/dumps.git
+ls
+git init
+sudo rm dumps
+sudo rm -R dumps
+ls
+git add .
+sudo git add .
+sudo git commit -m "data"
+git push origin
+git push
+it remote add origin ssh://git@bitbucket.org/hiteshjoshi/dumps.git
+git remote add origin ssh://git@bitbucket.org/hiteshjoshi/dumps.git
+git push
+git push origin master
+sudo ejabberdctl live --config /etc/ejabberd/ejabberd.cfg
+sudo shutdown -h 0
