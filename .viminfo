@@ -8,9 +8,9 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
 :q!
 :qs
-:q
 :s
 :save
 
@@ -25,13 +25,24 @@
 # Registers:
 
 # File marks:
-'0  165  4  /etc/ejabberd/ejabberd.cfg
+'0  1  0  ~/.ssh/id_rsa.pub
+'1  165  4  /etc/ejabberd/ejabberd.cfg
 
 # Jumplist (newest first):
+-'  1  0  ~/.ssh/id_rsa.pub
+-'  165  4  /etc/ejabberd/ejabberd.cfg
+-'  1  0  /etc/ejabberd/ejabberd.cfg
+-'  165  4  /etc/ejabberd/ejabberd.cfg
+-'  1  0  /etc/ejabberd/ejabberd.cfg
+-'  165  4  /etc/ejabberd/ejabberd.cfg
+-'  1  0  /etc/ejabberd/ejabberd.cfg
 -'  165  4  /etc/ejabberd/ejabberd.cfg
 -'  1  0  /etc/ejabberd/ejabberd.cfg
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/id_rsa.pub
+	"	1	0
 
 > /etc/ejabberd/ejabberd.cfg
 	"	165	4
